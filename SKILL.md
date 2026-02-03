@@ -86,5 +86,6 @@ your project will be created on AgentFund!
 
 ## Links
 
-- **GitHub**: https://github.com/RioBot-Grind/agentfund-mcp
-- **Contract**: https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a
+- **MCP Server**: https://github.com/RioBot-Grind/agentfund-mcp
+- **Smart Contract**: https://github.com/RioBot-Grind/agentfund-escrow
+- **BaseScan**: https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a
